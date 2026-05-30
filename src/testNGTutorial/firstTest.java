@@ -2,8 +2,8 @@ package testNGTutorial;
 
 public class firstTest {
 
-	@Test
-	public void getFirstTest() {
+	
+	public void getSecondTest() {
 		System.out.println("hi");
 	}
 
