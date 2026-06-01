@@ -19,12 +19,18 @@ public class firstTest {
 		System.out.println("kumar is sleeping");
 		System.out.println(b);
 	}
+	
+	private void getFourth() {
+		System.out.println("this is a method from tester 2");
+
+	}
 
 	public static void main(String[] args) {
 		firstTest fs = new firstTest();
 		fs.getFirstTest();
 		fs.getThird();
 		fs.mySecondTest();
+		fs.getFourth();
 	}
 
 }
