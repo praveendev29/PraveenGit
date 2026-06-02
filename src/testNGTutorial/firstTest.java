@@ -13,17 +13,19 @@ public class firstTest {
 		System.out.println("hi");
 	}
 
-	private void myFirstTest() {
-		System.out.println("tester 1 modify this");
-		System.out.println("tester 1 modify this");
 
-	}
+	
 
 	private void getThird() {
 		System.out.println("kumar is sleeping");
 		System.out.println(b);
 	}
 	
+	private void myFirstTest() {
+		System.out.println("tester 1 modify this");
+		System.out.println("tester 1 modify this");
+
+	}
 	
 	private void getFourth() {
 		System.out.println("this is a method from tester 2");
