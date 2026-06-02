@@ -13,10 +13,10 @@ public class firstTest {
 		System.out.println("hi");
 	}
 
-	private void mySecondTest() {
-		System.out.println("this is tester 2");
-		System.out.println(a);
-
+	public void Tester2Test() {
+		System.out.println("this is tester 2 modification");
+		System.out.println("jp");
+		
 	}
 
 	private void getThird() {
@@ -42,7 +42,7 @@ public class firstTest {
 		firstTest fs = new firstTest();
 		fs.getFirstTest();
 		fs.getThird();
-		fs.mySecondTest();
+		fs.Tester2Test();
 		fs.getFourth();
 		fs.getFifth();
 	}
