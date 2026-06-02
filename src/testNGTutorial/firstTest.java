@@ -13,9 +13,9 @@ public class firstTest {
 		System.out.println("hi");
 	}
 
-	private void mySecondTest() {
-		System.out.println("this is tester 2");
-		System.out.println(a);
+	private void myFirstTest() {
+		System.out.println("tester 1 modify this");
+		System.out.println("tester 1 modify this");
 
 	}
 
@@ -23,6 +23,7 @@ public class firstTest {
 		System.out.println("kumar is sleeping");
 		System.out.println(b);
 	}
+	
 	
 	private void getFourth() {
 		System.out.println("this is a method from tester 2");
@@ -33,6 +34,7 @@ public class firstTest {
 		System.out.println("this is a method from tester1");
 
 	}
+	
 	public void getFifth() {
 		System.out.println("this is a method from tester2");
 
@@ -42,7 +44,7 @@ public class firstTest {
 		firstTest fs = new firstTest();
 		fs.getFirstTest();
 		fs.getThird();
-		fs.mySecondTest();
+		fs.myFirstTest();
 		fs.getFourth();
 		fs.getFifth();
 	}
