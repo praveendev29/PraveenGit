@@ -4,6 +4,7 @@ public class firstTest {
 	int a = 5;
 	int b = 6;
 	int tester=0;
+	int tester2=1;
 
 	public void getFirstTest() {
 
