@@ -5,6 +5,7 @@ public class firstTest {
 	int b = 6;
 	int tester=0;
 	int tester2=1;
+	int tester7pm=7;
 	
 
 	public void getFirstTest() {
@@ -28,6 +29,10 @@ public class firstTest {
 
 	}
 	
+	public void getSixth() {
+		System.out.println("this is a method from tester1");
+
+	}
 	public void getFifth() {
 		System.out.println("this is a method from tester2");
 
