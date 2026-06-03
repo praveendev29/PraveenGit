@@ -7,7 +7,6 @@ public class firstTest {
 	int tester2=1;
 	int tester7pm=7;
 	
-
 	public void getFirstTest() {
 
 		System.out.println("hi");
@@ -16,6 +15,7 @@ public class firstTest {
 
 	
 
+	
 	private void getThird() {
 		System.out.println("kumar is sleeping");
 		System.out.println(b);
